@@ -1,0 +1,7 @@
+{
+    "name": "websockes-nodejs-kanto",
+    "version": "0.0.1",
+    "description": "websockets with nodejs",
+    "type": "module",
+    "dependencies": {}
+  }
